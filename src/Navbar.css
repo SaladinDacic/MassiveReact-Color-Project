@@ -43,3 +43,8 @@
     margin-top: -2px;
     /* margin-left: -6px; */
 }
+
+.select-container{
+    margin-left: auto;
+    margin-right: 1rem;
+}
