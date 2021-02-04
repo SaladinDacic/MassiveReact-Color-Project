@@ -215,8 +215,8 @@ export default [
       ]
     },
     {
-      paletteName: "Flat UI Colors French",
-      id: "flat-ui-colors-french",
+      paletteName: "Flat UI Colors Bosnian",
+      id: "flat-ui-colors-bosnian",
       emoji: "🇫🇷",
       colors: [
         { name: "FlatFlesh", color: "#fad390" },
