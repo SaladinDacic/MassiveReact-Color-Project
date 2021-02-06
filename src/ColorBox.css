@@ -53,6 +53,12 @@
     text-transform: uppercase;
     font-size: 12px;
 }
+.light-text{
+    color: white;
+}
+.ColorBox .dark-text{
+    color: black;
+}
 
 .see-more{
     background: rgba(255, 255, 255, 0.3);
@@ -122,5 +128,5 @@
 .copy-msg p{
     font-size: 2rem;
     font-weight: 100;
-    opacity: 0.7;
+    opacity: 0.8;
 }
